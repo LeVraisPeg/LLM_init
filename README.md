@@ -2,7 +2,7 @@
 
 Un projet d'initiation au LLM avec des exercices pratiques pour comprendre et manipuler des modèles de langage.
 
-## 📋 Description
+##  Description
 
 Ce repository contient deux notebooks Jupyter qui vous guideront à travers les bases de l'IA générative en manipulant et en contrôlant un LLM installé en local.
 
